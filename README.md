@@ -62,8 +62,19 @@ I like building things that run on their own: <b>n8n automations</b>, small full
 <p align="center"><b>Microsoft Learn</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Foundations-Part_1_%26_2-E0131D?style=for-the-badge&logo=github&logoColor=E0131D&labelColor=0D0D0D" />
-  <img src="https://img.shields.io/badge/GitHub_Administration_%26_Product_Features-Part_1_%26_2-E0131D?style=for-the-badge&logo=github&logoColor=E0131D&labelColor=0D0D0D" />
+  <a href="https://learn.microsoft.com/api/achievements/share/pt-br/VictorHolandadeOliveira-9327/8V8GH98W?sharingId=9DC2F47DA526CC7B">
+    <img src="https://img.shields.io/badge/GitHub_Foundations-Part_1-E0131D?style=for-the-badge&logo=github&logoColor=E0131D&labelColor=0D0D0D" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/pt-br/VictorHolandadeOliveira-9327/XPXUXTNY?sharingId=9DC2F47DA526CC7B">
+    <img src="https://img.shields.io/badge/GitHub_Foundations-Part_2-E0131D?style=for-the-badge&logo=github&logoColor=E0131D&labelColor=0D0D0D" />
+  </a>
+  <br>
+  <a href="https://learn.microsoft.com/api/achievements/share/pt-br/VictorHolandadeOliveira-9327/4C4Z4SNK?sharingId=9DC2F47DA526CC7B">
+    <img src="https://img.shields.io/badge/GitHub_Administration_%26_Product_Features-Part_1-E0131D?style=for-the-badge&logo=github&logoColor=E0131D&labelColor=0D0D0D" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/pt-br/VictorHolandadeOliveira-9327/D3DMDKGJ?sharingId=9DC2F47DA526CC7B">
+    <img src="https://img.shields.io/badge/GitHub_Administration_%26_Product_Features-Part_2-E0131D?style=for-the-badge&logo=github&logoColor=E0131D&labelColor=0D0D0D" />
+  </a>
 </p>
 
 <br>
