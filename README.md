@@ -49,7 +49,7 @@ English: intermediate · Spanish: beginner
 <br clear="both">
 
 <p align="center">
-  <img src="assets/good-for-health.gif" width="300" alt="Good for health, bad for education" />
+  <img src="assets/good-for-health.gif" width="240" alt="Good for health, bad for education" />
 </p>
 
 <h2 align="center">Certifications</h2>
