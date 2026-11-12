@@ -1,5 +1,5 @@
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=VICTOR%20HOLANDA&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&animation=fadeIn&desc=%E3%83%B4%E3%82%A3%E3%82%AF%E3%82%BF%E3%83%BC%20%C2%B7%20NEO-S%C3%83O%20PAULO&descSize=16&descAlign=50&descAlignY=72&color=0:0D0D0D,60:7A0C11,100:E0131D" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=VICTOR%20HOLANDA&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&animation=fadeIn&desc=S%C3%83O%20PAULO&descSize=16&descAlign=50&descAlignY=72&color=0:0D0D0D,60:7A0C11,100:E0131D" />
 </div>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 <br>
 
-<h2 align="left">Hi! I'm Victor </h2>
+<h2 align="left">Hi! I'm Victor</h2>
 
 <img align="right" width="360" src="https://media.giphy.com/media/VcRAN8c8wwOC4/giphy.gif" alt="Kaneda" />
 
@@ -41,14 +41,18 @@ I'm a <b>Systems Analysis and Development</b> student at <b>FIAP</b> (São Paulo
 <br><br>
 I like building things that run on their own: <b>n8n automations</b>, small full-stack apps with <b>React + TypeScript</b>, and Java back ends with <b>Spring Boot</b>. Games got me into code, so some of my projects are games, mods and puzzle automation too.
 <br><br>
-🎯 Looking for an <b>internship in IT / software development / tech support</b> (on-site, hybrid or remote).
+Looking for an <b>internship in IT / software development / tech support</b> (on-site, hybrid or remote).
 <br>
-🌎 English: intermediate · Spanish: beginner
+English: intermediate · Spanish: beginner
 </p>
 
 <br clear="both">
 
-<h2 align="center">📃 Certifications</h2>
+<p align="center">
+  <img src="assets/good-for-health.gif" width="300" alt="Good for health, bad for education" />
+</p>
+
+<h2 align="center">Certifications</h2>
 
 <p align="center"><b>FIAP Nano Courses</b> · 240 hours</p>
 
@@ -79,7 +83,7 @@ I like building things that run on their own: <b>n8n automations</b>, small full
 
 <br>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/zHobbit/promolinks-ofertas-whatsapp">
@@ -118,7 +122,7 @@ I like building things that run on their own: <b>n8n automations</b>, small full
 
 <br>
 
-<h3 align="center">GitHub Stats 📊</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zHobbit&background=0D0D0D&border=E0131D&ring=E0131D&fire=E0131D&currStreakLabel=E0131D&sideLabels=FFFFFF&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
@@ -139,7 +143,7 @@ I like building things that run on their own: <b>n8n automations</b>, small full
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zHobbit/zHobbit/output/pacman-contribution-graph.svg">
 </picture>
 
-<h2 align="center">Technologies & Languages 💻</h2>
+<h2 align="center">Technologies & Languages</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
@@ -167,7 +171,7 @@ I like building things that run on their own: <b>n8n automations</b>, small full
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
 </div>
 
-<h2 align="center">🛠️ Tools</h2>
+<h2 align="center">Tools</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
@@ -196,7 +200,7 @@ I like building things that run on their own: <b>n8n automations</b>, small full
 </p>
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=LET'S%20CONNECT&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&animation=scaleIn&desc=%E5%81%A5%E5%BA%B7%E5%84%AA%E8%89%AF%E4%B8%8D%E8%89%AF%E5%B0%91%E5%B9%B4&descSize=14&descAlign=50&descAlignY=72&color=0:E0131D,40:7A0C11,100:0D0D0D" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=LET'S%20CONNECT&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&animation=scaleIn&color=0:E0131D,40:7A0C11,100:0D0D0D" />
 </div>
 
 <p align="center">
