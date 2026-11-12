@@ -57,7 +57,6 @@ I like building things that run on their own: <b>n8n automations</b>, small full
   <img src="https://fiap-achievements.vercel.app/api/badge?badge=251907&theme=crimson" width="140" alt="Oracle Database · 60h" />
   <img src="https://fiap-achievements.vercel.app/api/badge?badge=605219&theme=crimson" width="140" alt="Communication and Semiotics · 60h" />
   <img src="https://fiap-achievements.vercel.app/api/badge?badge=907326&theme=crimson" width="140" alt="IT Infrastructure Management · 20h" />
-  <img src="https://fiap-achievements.vercel.app/api/badge?badge=challenge&year=2026&company=jovi&theme=crimson" width="140" alt="FIAP Challenge 2026 · Jovi" />
 </p>
 
 <p align="center"><b>Microsoft Learn</b></p>
