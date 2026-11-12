@@ -32,7 +32,7 @@
 
 <br>
 
-<h2 align="left">Hi! I'm Victor 🏍️</h2>
+<h2 align="left">Hi! I'm Victor </h2>
 
 <img align="right" width="360" src="https://media.giphy.com/media/VcRAN8c8wwOC4/giphy.gif" alt="Kaneda" />
 
