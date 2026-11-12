@@ -50,6 +50,27 @@ Before tech I worked in customer-facing roles (front desk, restaurants, live eve
 
 <br clear="both">
 
+<h2 align="center">📃 Certifications</h2>
+
+<p align="center"><b>FIAP Nano Courses</b> · 240 hours</p>
+
+<p align="center">
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=218574&theme=crimson" width="140" alt="Project Management · 100h" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=251907&theme=crimson" width="140" alt="Oracle Database · 60h" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=605219&theme=crimson" width="140" alt="Communication and Semiotics · 60h" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=907326&theme=crimson" width="140" alt="IT Infrastructure Management · 20h" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=challenge&year=2026&company=jovi&theme=crimson" width="140" alt="FIAP Challenge 2026 · Jovi" />
+</p>
+
+<p align="center"><b>Microsoft Learn</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Foundations-Part_1_%26_2-E0131D?style=for-the-badge&logo=github&logoColor=E0131D&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/GitHub_Administration_%26_Product_Features-Part_1_%26_2-E0131D?style=for-the-badge&logo=github&logoColor=E0131D&labelColor=0D0D0D" />
+</p>
+
+<br>
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
