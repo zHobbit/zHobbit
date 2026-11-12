@@ -48,10 +48,6 @@ English: intermediate · Spanish: beginner
 
 <br clear="both">
 
-<p align="center">
-  <img src="assets/good-for-health.gif" width="240" alt="Good for health, bad for education" />
-</p>
-
 <h2 align="center">Certifications</h2>
 
 <p align="center"><b>FIAP Nano Courses</b> · 240 hours</p>
@@ -79,6 +75,12 @@ English: intermediate · Spanish: beginner
   <a href="https://learn.microsoft.com/api/achievements/share/pt-br/VictorHolandadeOliveira-9327/D3DMDKGJ?sharingId=9DC2F47DA526CC7B">
     <img src="https://img.shields.io/badge/GitHub_Administration_%26_Product_Features-Part_2-E0131D?style=for-the-badge&logo=github&logoColor=E0131D&labelColor=0D0D0D" />
   </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="assets/good-for-health.gif" width="240" alt="Good for health, bad for education" />
 </p>
 
 <br>
