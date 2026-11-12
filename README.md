@@ -80,7 +80,7 @@ English: intermediate · Spanish: beginner
 <br>
 
 <p align="center">
-  <img src="assets/good-for-health.gif" width="240" alt="Good for health, bad for education" />
+  <img src="assets/good-for-health-pill.gif" width="240" alt="Good for health, bad for education" />
 </p>
 
 <br>
