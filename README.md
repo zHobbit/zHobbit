@@ -41,8 +41,6 @@ I'm a <b>Systems Analysis and Development</b> student at <b>FIAP</b> (São Paulo
 <br><br>
 I like building things that run on their own: <b>n8n automations</b>, small full-stack apps with <b>React + TypeScript</b>, and Java back ends with <b>Spring Boot</b>. Games got me into code, so some of my projects are games, mods and puzzle automation too.
 <br><br>
-Before tech I worked in customer-facing roles (front desk, restaurants, live events), which taught me communication, organization and working under pressure.
-<br><br>
 🎯 Looking for an <b>internship in IT / software development / tech support</b> (on-site, hybrid or remote).
 <br>
 🌎 English: intermediate · Spanish: beginner
