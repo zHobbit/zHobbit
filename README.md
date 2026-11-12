@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZwLiwE7HcC8ow/giphy.gif" width="520" alt="Neo-Tokyo" />
-</p>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
   <img width="10" />
@@ -33,8 +29,6 @@
 <br>
 
 <h2 align="left">Hi! I'm Victor</h2>
-
-<img align="right" width="360" src="https://media.giphy.com/media/VcRAN8c8wwOC4/giphy.gif" alt="Kaneda" />
 
 <p align="left">
 I'm a <b>Systems Analysis and Development</b> student at <b>FIAP</b> (São Paulo, Brazil), after 3 years of Computer Science at Anhembi Morumbi, where I first learned Java and C.
