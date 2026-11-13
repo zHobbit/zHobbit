@@ -23,6 +23,12 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           filename: metrics.svg
+          extras_css: |
+            h1, h2, h3 { color: #B3121A !important; }
+            [fill="#9be9a8"] { fill: #fca5a5 !important; }
+            [fill="#40c463"] { fill: #f87171 !important; }
+            [fill="#30a14e"] { fill: #dc2626 !important; }
+            [fill="#216e39"] { fill: #991b1b !important; }
           output_action: commit
           committer_branch: metrics
           committer_message: "chore: update metrics [skip ci]"
@@ -45,3 +51,8 @@ jobs:
             * { color: #c9d1d9 !important; }
             h1, h2, h3 { color: #E0131D !important; }
             .field svg { fill: #8b949e !important; }
+            [fill="#ebedf0"] { fill: #161b22 !important; }
+            [fill="#9be9a8"] { fill: #4a0d10 !important; }
+            [fill="#40c463"] { fill: #7A0C11 !important; }
+            [fill="#30a14e"] { fill: #B3121A !important; }
+            [fill="#216e39"] { fill: #E0131D !important; }
