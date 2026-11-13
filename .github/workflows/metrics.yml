@@ -1,0 +1,47 @@
+name: Generate metrics
+
+on:
+  schedule: # daily, 06:00 UTC = 03:00 in São Paulo
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Light variant
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: zHobbit
+          template: classic
+          base: header
+          config_timezone: America/Sao_Paulo
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          filename: metrics.svg
+          output_action: commit
+          committer_branch: metrics
+          committer_message: "chore: update metrics [skip ci]"
+
+      - name: Dark variant
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: zHobbit
+          template: classic
+          base: header
+          config_timezone: America/Sao_Paulo
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          filename: metrics-dark.svg
+          output_action: commit
+          committer_branch: metrics
+          committer_message: "chore: update metrics dark variant [skip ci]"
+          extras_css: |
+            * { color: #c9d1d9 !important; }
+            h1, h2, h3 { color: #E0131D !important; }
+            .field svg { fill: #8b949e !important; }
