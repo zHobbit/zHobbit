@@ -8,6 +8,8 @@
   </a>
 </p>
 
+<p align="center"><sub>Prefere português? <a href="./README.pt-BR.md">Leia esta página em PT-BR</a></sub></p>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
   <img width="10" />
@@ -120,14 +122,14 @@ English: intermediate · Spanish: beginner
 
 <h3 align="center">GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zHobbit&background=0D0D0D&border=E0131D&ring=E0131D&fire=E0131D&currStreakLabel=E0131D&sideLabels=FFFFFF&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zHobbit/zHobbit/metrics/metrics-dark.svg">
+    <img alt="GitHub metrics with full-year isometric contribution calendar" src="https://raw.githubusercontent.com/zHobbit/zHobbit/metrics/metrics.svg">
+  </picture>
+</div>
 
 <p align="center">
-  <a href="https://github.com/zHobbit">
-    <img height="150px" src="https://beautiful-github-homepage.vercel.app/api?username=zHobbit&hide_title=true&show_icons=true&include_all_commits=true&bg_color=0D0D0D&icon_color=E0131D&text_color=FFFFFF&border_color=E0131D" />
-  </a>
   <a href="https://github.com/zHobbit">
     <img height="150px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=zHobbit&layout=compact&count_private=true&bg_color=0D0D0D&title_color=E0131D&text_color=FFFFFF&border_color=E0131D" />
   </a>
